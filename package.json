@@ -1,0 +1,20 @@
+{
+  "name": "javascript-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Basicalgorithm.js",
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "prompt": "^1.1.0",
+    "prompt-sync-history": "^1.0.1",
+    "save": "^2.4.0"
+  },
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
